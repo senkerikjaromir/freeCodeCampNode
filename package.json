@@ -1,6 +1,7 @@
 {
 	"author": "Jaromir Senkerik",
 	"name": "fcc-learn-npm-package-json",
+	"license": "MIT",
 	"description": "A project that helps me to learn Node.js",
 	"keywords": [ "node", "learn", "server", "freecodecamp" ],
 	"dependencies": {
